@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gl1</string>
+    <string name="next">Next</string>
+    <string name="greeting">Hello there!\nWhat seems to be the problem?</string>
+    <string name="i_m_sorry_to_hear_that_ni_d_like_to_help_you_so_i_ve_got_some_recommendations">I\'m sorry to hear that.\nI\'d like to help you, so I\'ve got some recommendations:</string>
+</resources>
