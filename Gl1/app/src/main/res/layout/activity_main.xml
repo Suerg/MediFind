@@ -47,7 +47,9 @@
             android:text="@string/next"
             android:textSize="14sp"
             app:layout_constraintRight_toRightOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/listViewSymptoms" />
+            app:layout_constraintTop_toBottomOf="@+id/listViewSymptoms"
+            android:layout_marginTop="-63dp"
+            android:layout_marginRight="-676dp" />
 
         <ListView
             android:id="@+id/listViewSymptoms"

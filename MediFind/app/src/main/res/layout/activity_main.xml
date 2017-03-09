@@ -51,6 +51,7 @@
         android:background="#005875"
         android:padding="10dp"
         android:text="Let's find it!"
+        android:onClick="goToHomePage"
         tools:layout_constraintRight_creator="1"
         tools:layout_constraintBottom_creator="1"
         app:layout_constraintBottom_toBottomOf="parent"
